@@ -1,0 +1,11 @@
+//
+//  Development.xcconfig
+//  ListingsApp
+//
+//  Created by Rana Ijaz on 20/08/2022.
+//
+
+BASE_URL = https:/$()/api.openweathermap.org/data/2.5/forecast?
+APP_BUNDLE_ID = com.ijaz.weatherapp.development
+APP_NAME = WeatherApp Dev
+
